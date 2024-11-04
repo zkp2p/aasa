@@ -4,9 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "xyz.zkp2p.verify",
-      "sha256_cert_fingerprints": [
-        "A1:E2:0B:9A:71:A5:DE:0C:68:E4:57:89:21:C8:2C:99:84:00:9A:43:19:CA:B2:67:B8:F1:29:C4:F0:AF:92:AC"
-      ]
+      "sha256_cert_fingerprints":
+        ["4E:E0:80:86:50:07:79:F6:E0:38:18:34:F1:BC:1E:75:17:24:8C:9F:92:88:C7:C5:BB:5E:7F:2D:B7:5B:B6:48"]
     }
   }
 ]
