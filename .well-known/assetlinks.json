@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.zkp2p.verify",
+      "sha256_cert_fingerprints": [
+        "A1:E2:0B:9A:71:A5:DE:0C:68:E4:57:89:21:C8:2C:99:84:00:9A:43:19:CA:B2:67:B8:F1:29:C4:F0:AF:92:AC"
+      ]
+    }
+  }
+]
