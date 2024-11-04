@@ -6,7 +6,7 @@ defaults:
     values:
       layout: null
       content_type: "application/json"
-- scope:
+  - scope:
       path: ".well-known/assetlinks.json"
     values:
       layout: null
